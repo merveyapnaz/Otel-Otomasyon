@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1450288117 source:c:\users\merve\desktop\uygulamalar\c\otel otomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+
